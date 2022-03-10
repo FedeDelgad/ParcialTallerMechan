@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.menu{
+    background: #144B88;
+}
+.logo{
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+}
+.salir{
+    font-size: 17px;
+}
+.grupo{
+    background:#717D7E ;
+}
+.tit1{
+     font-family: 'Lobster', cursive; 
+}
+.tit2{
+    font-family: 'Barlow Condensed', sans-serif;
+}
